@@ -1,0 +1,4 @@
+build-solution-x64/
+LocalMatchResults/
+*.job
+TeamInfo.team
